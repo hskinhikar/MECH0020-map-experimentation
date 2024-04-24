@@ -1,0 +1,5 @@
+import site
+print(site.getsitepackages())
+#['C:\\Users\\hskin\\AppData\\Local\\Programs\\Python\\Python310', 'C:\\Users\\hskin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages']py
+
+import gymnasium as gym
